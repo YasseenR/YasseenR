@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasseen Rouni.
 - 👀 I’m interested in computer science and innovations possible using comp sci skills.
 - 💻 I'm most proficient in Front End programming.
-- 🌱 I’m currently learning C and HTML.
+- 🌱 I’m currently learning C and Swift.
 - 💞️ I’m looking to collaborate on future projects and hackathons.
 - 📫 You can reach me through email at: yasseenrouni@gmail.com or linkedin @yasseenrouni
 
